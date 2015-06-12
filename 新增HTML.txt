@@ -1,0 +1,16 @@
+//新增的 HTML
+//enctype="multipart/form-data"  有檔案需填入
+<form name="newuser" method="post" action="adduser.php"  enctype="multipart/form-data"  class=form-signin>
+<h2 class=form-signin-heading>請輸入基本資料</h2>
+<p>
+<input type="text" name="id" class="input-block-level" placeholder="登入帳號"> 
+
+<input type="password" name="password" class="input-block-level" placeholder="登入密碼"> 
+
+<input type="text" name="name" class="input-block-level" placeholder="姓名"> 
+
+<input type="text" name="tel" class="input-block-level" placeholder="電話"> 
+
+<input type="text" name="address" class="input-block-level" placeholder="地址"> 
+
+<input type="file" name="gif" class="input-block-level" placeholder="上傳照片"> 
