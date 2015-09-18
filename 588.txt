@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>UNT專業藥妝│觸動全球 極效醫美</title>
+<style type="text/css">
+tr:nth-of-type(even){background-color:#FFF;}
+tr:nth-of-type(odd){background-color:#dadada;}
+.tbcolor{
+	 width:515px;
+	 font-size:16px;
+	 font-family: arial,Microsoft JhengHei, 微軟正黑體;
+	 border-spacing: 0;
+	 border-collapse: collapse;
+	 border:1px solid #e4e4e4;
+	 -moz-box-shadow: 1px 1px 4px #e6e6e6;
+-webkit-box-shadow: 1px 1px 4px #e6e6e6;
+box-shadow: 1px 1px 4px #e6e6e6;
+}
+.tbcolor th{ background:#A91130; color:#ffffff; padding: 6px;}
+.tbcolor td{ padding: 6px; text-align:center;}
+</style>
+</head>
+
+
+<body>
+<table class="tbcolor">
+        <tr><th>色號</th><th>品名</th><th>效期</th></tr>
+        <tr><td>UV010</td><td>微雨的鴨川</td><td>20160805</td></tr>
+        <tr><td>UV020</td><td>客製化女神</td><td>20160423</td></tr>
+        <tr><td>UV025</td><td>小聰明</td><td>20160302</td></tr>
+        <tr><td>UV030</td><td>愛欺負我</td><td>20160302</td></tr>
+        <tr><td>UV035</td><td>深諳的老手</td><td>20160302</td></tr>
+        <tr><td>UV045</td><td>獨佔慾</td><td>20160302</td></tr>
+        <tr><td>UV050</td><td>憧憬</td><td>20160205</td></tr>
+        <tr><td>UV055</td><td>優雅的冒險主義</td><td>20160423</td></tr>
+        <tr><td>UV060</td><td>朝聖</td><td>20160423</td></tr>
+        <tr><td>UV065</td><td>終極犒賞</td><td>20160302</td></tr>
+        <tr><td>UV070</td><td>古董蕾絲</td><td>20160423</td></tr>
+        <tr><td>UV075</td><td>時尚觀察家</td><td>20160302</td></tr>
+        <tr><td>UV090</td><td>虛浮實力派</td><td>20160423</td></tr>
+        <tr><td>UV100</td><td>迴盪的夢囈</td><td>20160423</td></tr>
+        <tr><td>UV120</td><td>無法參透的吻</td><td>20160416</td></tr>
+        <tr><td>UV125</td><td>超現實喜劇</td><td>20160609</td></tr>
+        <tr><td>UV130</td><td>沾沾自喜</td><td>20160416</td></tr>
+        <tr><td>UV150</td><td>纏繞的絲</td><td>20160416</td></tr>
+        <tr><td>UV160</td><td>雍容的犒賞</td><td>20160423</td></tr>
+        <tr><td>UV165</td><td>迂迴的旅途</td><td>20160417</td></tr>
+        <tr><td>UV170</td><td>麂皮淑女帽</td><td>20160416</td></tr>
+        <tr><td>UV175</td><td>獨角獸</td><td>20160522</td></tr>
+        <tr><td>UV180</td><td>高海拔的告白</td><td>20160506</td></tr>
+        <tr><td>UV185</td><td>狂歡症候群</td><td>20160416</td></tr>
+        <tr><td>UV190</td><td>新復古走秀包</td><td>20160604</td></tr>
+        <tr><td>UV195</td><td>凌晨3點</td><td>20160604</td></tr>
+        <tr><td>UV210</td><td>兔子騎單車</td><td>20160912</td></tr>
+        <tr><td>UV255</td><td>特許禮遇</td><td>20160506</td></tr>
+        <tr><td>UV260</td><td>迷你衝浪</td><td>20160912</td></tr>
+        <tr><td>UV270</td><td>銀河女戰士</td><td>20160912</td></tr>
+</table>
+</body>
+</html>
