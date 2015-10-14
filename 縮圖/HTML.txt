@@ -1,0 +1,2 @@
+放在<body>.....</body>之間：
+<img src="sample.jpg" alumb="true" _w="300" _h="300" width="500"/>
